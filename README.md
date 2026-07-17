@@ -1,8 +1,7 @@
-# Mothusi — The Student Voice and Chatbot Assistant. Built in Botswana. For Computer Studies Students.
+# Mothusi — An AI Study Assistant for BGCSE Computer Studies Students. Built in Botswana.
 
 ## Download
 **[⬇ Download Mothusi V3.1 (.exe)](https://drive.google.com/file/d/1D-A1PlmwMFwzrenTpy5idwbM1ehSBrcZ/view?usp=drivesdk)**
-
 Windows only. No Python required. Double-click and run.
 
 ---
@@ -22,7 +21,7 @@ Five bugs fixed from V3.0:
 - Fixed session save missing required arguments
 - Fixed function name mismatch causing save failures
 
-Also updated the syllabus with weak topics flagged in the 2024 BGCSE examiner report — including verification vs validation, COUNTIF/IF formulas, specialised input devices, and NIC/HUB functions.
+Also updated the syllabus to cover commonly weak topics — including verification vs validation, COUNTIF/IF formulas, specialised input devices, and NIC/HUB functions.
 
 ---
 
@@ -68,7 +67,7 @@ Also updated the syllabus with weak topics flagged in the 2024 BGCSE examiner re
 ## Versions
 | Version | Description |
 |---------|-------------|
-| V3.1 | Bug fixes — quiz input routing, name printing, session save logic. Updated syllabus with 2024 examiner report weak topics. |
+| V3.1 | Bug fixes — quiz input routing, name printing, session save logic. Syllabus updated to cover commonly weak topics. |
 | V3.0 | Full GUI rebuild — login system, quiz mode, dual input, edge-tts voice |
 | V2.0 | Added student records, testme(), GUI interface |
 | V1.0 | First release — voice commands, AI answers, terminal interface |
@@ -86,5 +85,4 @@ Also updated the syllabus with weak topics flagged in the 2024 BGCSE examiner re
 
 ## Developer
 **Mulax Prime** (Amantle Mpaekae) | Mogoditshane, Botswana
-
 [GitHub](https://github.com/mulaxprime) · [Portfolio](https://mulaxprime.github.io)
